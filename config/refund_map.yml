@@ -1,0 +1,44 @@
+refunds:
+  - purchase:
+      date: "2026-06-27"
+      amount: -431.89
+      bank: "revolut_usd"
+      description: "Enterprise Rent-A-Car"
+    refund:
+      date: "2026-06-28"
+      amount: 319.78
+      bank: "revolut_gbp"
+      description: "Enterprise Rent-A-Car"
+
+  - purchase:
+      date: "2026-05-19"
+      amount: -72.00
+      bank: "amex"
+      description: "LEVI'S ONLINE SHOP DIEGEM"
+    refund:
+      date: "2026-06-04"
+      amount: 72.00
+      bank: "amex"
+      description: "LEVI'S ONLINE SHOP DIEGEM"
+
+  - purchase:
+      date: "2026-05-31"
+      amount: -38.88
+      bank: "revolut_usd"
+      description: "OVpay"
+    refund:
+      date: "2026-06-05"
+      amount: 18.28
+      bank: "revolut_gbp"
+      description: "OVpay"
+
+  - purchase:
+      date: "2025-02-17"
+      amount: -21.07
+      bank: "revolut_usd"
+      description: "OVpay"
+    refund:
+      date: "2025-02-21"
+      amount: 12.20
+      bank: "revolut_gbp"
+      description: "OVpay"

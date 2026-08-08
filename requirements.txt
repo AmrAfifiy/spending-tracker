@@ -1,0 +1,6 @@
+sqlalchemy
+matplotlib
+pyyaml
+python-dateutil
+pandas
+yfinance

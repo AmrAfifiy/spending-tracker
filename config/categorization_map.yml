@@ -1,0 +1,287 @@
+# Default category mappings
+# Add merchant names or keywords under each category.
+# The system will perform a case-insensitive search for these keywords
+# in the transaction description.
+
+Groceries:
+  - Tesco
+  - Sainsbury's
+  - Morrisons
+  - M&S
+  - Marks and Spencer
+  - MARKS & SPENCER
+  - Marks&Spencer
+  - NKORA
+  - CO-OP
+  - Asda
+  - ICELAND FOODS
+  - SAINSBURYS
+  - PAYPAL *SNOWDONIAC
+  - WAITROSE
+  - GREENFIELDS LONDON
+  - Laura Ltd
+  - B&Q ST. ALBANS
+  - WH SMITH KINGS CROSS
+
+Car:
+  - POST OFFICE  DAVIS ESTA
+  - Admiral Insurance
+  - BIG MOTORING WORLD
+  - EVERSURE LIMITED EVERSU
+  - DVLA
+  - MFG
+  - Motor Fuel
+  - STRATFORD CITY CAR PARK
+
+Food Delivery:
+  - Uber Eats
+  - Deliveroo
+  - Just Eat
+  - PAYPAL *JUSTEATCOU
+
+Eating Out:
+  - Babuji
+  - Damascus Bride
+  - Damscus Bride
+  - URBAN FOOD COURT
+  - DIWAN S KITCHEN
+  - HIJAZI CORNER
+  - PORTERFORD BUTCHERS
+  - PER TUTTI
+  - Laz Camden
+  - BURGER & LOBSTER
+  - Thaigarden
+  - CREPES A LA CARTE
+  - TASTE OF SIAM
+  - Gokyuzu
+  - Megans St Albans
+  - RACK CITY RIBS
+  - George Street Canteen
+  - Angus Steakhouse
+  - HOPPERS RESTURANT
+  - HONEST BURGERS
+  - Hiba Street Food
+  - MASGOUF
+  - BURGER AND BEYO
+  - Namak Mandi
+  - ASSENHEIMS
+  - KOSHARI STREET
+  - DOJO*YACOB
+  - Koshary EL Tahrir
+  - K10 SUSHI
+  - MANGO INDIAN LONDON
+  - Cha and Nasta
+  - ROYALCHINACLUB
+  - DOJO*AZURA LONDON
+  - Hafez Restaurant
+  - ROSA'S KING'S CROSS
+  - SUMUP*SIX 2 ONE BARS
+  - 3596 LONDON
+  - Barrow Boy & Banker
+  - ZETTLE *FLAVOUR MANAGEM LONDON
+  - ORIENTAL GOURMET ORIENT LONDON
+  - FOGO DE CHAO
+  - Tanakatsu
+  - 71Stalbans
+  - HOPPERS KING LONDON
+  - MCDONALDS
+  - Flight Club
+  - LA PATAGONIA CAMDEN TOWN
+  - Angry Crab Shack
+  - CAMDEN BBQ LONDON
+  - The Sichuan Restaurant
+  - NANDOS.CO.UK
+  - San Lorenzo Bistro
+  - ITALIAN GOURMET
+  - MCDONALD'S
+  - POPEYES
+  - Uzumaki London
+  - DIYARBAKIR LONDON
+  - The Barn at Berryfields
+  - TST-TEXAS JOE'S LONDON
+  - Fishery Inn HEMEL HEMPSTEAD
+  - CARAVAN KING LONDON
+  - THE SONS OF TEM LONDON
+  - LUCIA S
+  - THE ITALIAN BAKERY
+  - CAMDEN POS
+  - HONEST BURGER
+  - THE SALAD PROJE
+  - SALAD PROJECTS LIMITED LONDON
+  - PASSYUNK AVENUE
+
+Coffee & Cafes:
+  - CAFFE NERO
+  - SAINT ESPRESSO
+  - Costa
+  - Pret A Mang
+  - PURELY GROUNDED
+  - Starbucks
+  - BENUGO
+  - HERMANOS COLOMBIAN
+  - NYA*The Royal Parks Lt Aberystwyth
+  - REGENTS PARK
+  - NEW YORK CAFE
+  - ST. PANCRAS STATION
+  - TST-ST PAUL'S HOTEL
+  - BLACK SHEEP COF
+  - The Hub On Verulam
+  - SIMMONS ST ALBANS
+  - The Hub St Albans
+  - PRUFROCK COFFEE
+
+Travel:
+  - ENTERPRISE RENT A CAR
+  - Enterprise Rent-A-Car
+  - Europcar
+  - Booking.com
+  - Agoda
+  - Airbnb
+  - BRITISH AIRWAYS
+  - TURKISH AIRLINES
+  - EASYJET
+  - Avis
+  - AIRASIA
+  - wizzair
+  - Air Cairo
+  - EgyptAir
+  - Grab
+  - Talabat
+  - Roccamare Resort
+  - Albatros Palace Hotel
+  - Centara Ao Nang Beach Res
+  - Klook
+  - AIRALO
+  - Vueling
+  - SUNEXPRESSIBS
+  - GATE RETAIL WIZZ
+
+Mental Health:
+  - VICTOR THOMPSON
+  - Top Doctors UK
+  - DR. ISOBEL HORN
+
+Medical & Dental:
+  - Dunya Goz Hastanesi
+  - Siya Saglik Hizmetleri
+  - Dental
+  - Astra Dent
+  - VISION EXPRESS
+  - Mnk*Ebs Physiotherapy
+
+Family help:
+  - Family transfer
+
+Transport:
+  - TFL
+  - Transport for London
+  - Uber
+  - Bolt
+  - Trainline
+  - Railcard
+  - SNB S201659
+  - SNB S201565
+  - National Express
+  - RINGGO PARKING
+  - OVpay
+
+Utilities & bills:
+  - Shell Energy
+  - SADC COUNCIL TAX
+  - MARTIN & CO
+  - MARTIN + CO
+  - Affinity Water Ccp Web, Hatfield
+  - OCTOPUS ENERGY
+
+Gym & Fitness:
+  - FITNESS FIRST CLUB
+  - JUNAID MALIK
+  - Fitness Factory Fx
+  - ST ALBANS FENCING
+  - Leon Paul Equipment Ltd, London
+  - PAYPAL *SA FC
+  - BRITISH FE
+
+Phone & Internet:
+  - PNET
+  - Plusnet
+  - GIFFGAFF
+  - BT GROUP
+  - PAYPAL PAYMENT 5HBJ22287DSNA DDR
+
+Subscriptions:
+  - Google Youtubepremium
+  - Amazon Prime
+  - SM.Nord
+  - Tinder
+  - Bumble
+  - Metal plan fee
+  - Freetrade
+  - PAYPAL *PATREON ME
+  - MEMBERSHIP FEE
+  - PAYPAL *PLAYSTATIO
+  - GOOGLE *GOOGLE PLAY
+  - GOOGLE*GOOGLE PLAY
+
+Entertainment:
+  - Ebilet
+  - Royal Albert Hall
+  - Abdallah Elguindy
+  - TICKETS
+  - ODEON CINEMAS
+
+Online Shopping:
+  - Amazon
+  - PAYPAL *EMMAMATRAT
+
+Clothing & Accessories:
+  - AMERICANTOURISTER
+  - Optix Sahap Sabri Tuzal
+  - PAYPAL *NEXTLTD
+  - Arabian Oud
+  - CHARLES TYRWHITT
+  - Giorgio Armani
+  - NEXT ONLINE
+  - AIRWAIR
+  - Skechers
+  - The North Face
+  - Levi's
+  - NEXT NEXTDIRECTORY
+  - Network&fabrika
+  - TIMPSON
+  - NOMINALX
+
+Electronics:
+  - SP HOXTON MACS
+  - GOOGLE*GOOGLE STORE
+  - CEX UNITED KINGDOM
+
+Personal Care:
+  - CITY BARBERS
+
+Cash Withdrawal:
+  - Cash withdrawal
+  - Notemachine
+  - ALBANS CITY 1 ATM
+  - ST ALBANS ATM
+
+Business Expenses:
+  - WWW.MADESIMPLEGROUP.CO
+  - Companieshouse Web Filing
+  - Apple
+  - Global~Collect=names.co
+  - Apkallu LTD
+  - COMPANIES HOUSE
+
+Government & Taxes:
+  - Sopra Steria Limited Ukvc, www.Ukvcas.Co
+  - L B Camden Int, London
+  - HM Passport Office, Durham
+  - HMRC SA
+  - Snappy Snaps
+  - HMRC SELF ASSESSME
+
+Banking Fees:
+  - CHARGES*
+
+Uncategorized: []

@@ -1,0 +1,143 @@
+
+--- Uncategorized Transactions (Sorted by Date) ---
+Date: 2026-06-24, Amount:       0.00, Bank: monzo       , Description: GOOGLE *TEMPORARY HOLD DUBLIN 4 IRL
+Date: 2026-06-24, Amount:     -10.00, Bank: monzo       , Description: GOOGLE *CLOUD C5DBSX DUBLIN IRL
+Date: 2026-06-07, Amount:     -32.40, Bank: amex        , Description: SP NOMINALX.COM PHOENIX
+Date: 2026-05-06, Amount:      -6.90, Bank: amex        , Description: CHINESE BRITISH ENTERP LONDON
+Date: 2026-04-28, Amount:       1.10, Bank: barclays    , Description: GOVIA TRAINS LTD DRTL33180022 BGC
+Date: 2026-04-28, Amount:       0.50, Bank: barclays    , Description: GOVIA TRAINS LTD DRTL33179994 BGC
+Date: 2026-04-28, Amount:      -6.10, Bank: amex        , Description: CKO*SUNDAY*LONG ARM BRE LONDON
+Date: 2026-04-28, Amount:      -6.10, Bank: amex        , Description: CKO*SUNDAY*LONG ARM BRE LONDON
+Date: 2026-04-26, Amount:      -0.20, Bank: barclays_card, Description: Nyx*TheRoyalParksLtd, London.20 POUND STERLING GREAT BRITAIN
+Date: 2026-04-25, Amount:      -8.00, Bank: amex        , Description: DOJO*THE GOLDEN LION CA LONDON
+Date: 2026-04-25, Amount:      -9.30, Bank: barclays_card, Description: Dingwalls, London
+Date: 2026-04-19, Amount:      -4.70, Bank: amex        , Description: BBM Northampton South C Northampton
+Date: 2026-04-18, Amount:     -10.45, Bank: amex        , Description: 3CPAYMENT*WELCOME BREAK NEWPORT PAGNELL
+Date: 2026-03-29, Amount:      -9.73, Bank: revolut_usd , Description: Badoo
+Date: 2026-03-28, Amount:     -10.49, Bank: revolut_usd , Description: Feteer Al Asdkaa >
+Date: 2026-03-23, Amount:      -4.09, Bank: revolut_gbp , Description: Orange
+Date: 2026-01-31, Amount:      -5.50, Bank: barclays_card, Description: Wembley Park, London
+Date: 2025-12-26, Amount:      -1.00, Bank: monzo       , Description: NYX*MotorFuelLimited StAlbans GBR
+Date: 2025-12-20, Amount:      -0.20, Bank: monzo       , Description: NYX*TheRoyalParksLtd London GBR
+Date: 2025-12-20, Amount:      -3.70, Bank: amex        , Description: DINES* 2631 COFFEE WW LONDON
+Date: 2025-12-20, Amount:      -8.00, Bank: amex        , Description: EL PASTOR CDY LTD - THE LONDON
+Date: 2025-11-12, Amount:      -8.45, Bank: amex        , Description: BOOTS THE CHEMIST LONDON
+Date: 2025-11-05, Amount:     -38.66, Bank: amex        , Description: PASSYUNK AVENUE FITZROV London
+Date: 2025-10-28, Amount:     -13.99, Bank: barclays    , Description: PAYPAL *GOOGLE FEE ON 27 OCT BCC
+Date: 2025-10-17, Amount:      -9.20, Bank: barclays_card, Description: Art Coffee and Sandwiches, London
+Date: 2025-10-04, Amount:      -2.20, Bank: amex        , Description: PUCCINOS FINSBURY PARK SEVEN SISTERS R
+Date: 2025-10-04, Amount:      -1.20, Bank: barclays_card, Description: Station Place, London
+Date: 2025-10-04, Amount:      -6.75, Bank: barclays_card, Description: Park Pizza, London N4 3
+Date: 2025-09-27, Amount:      -4.74, Bank: amex        , Description: REDEMPTION ROASTERS HAM London
+Date: 2025-09-20, Amount:      -2.95, Bank: amex        , Description: RHUBARB AT RAH LONDON
+Date: 2025-09-20, Amount:      -8.30, Bank: amex        , Description: VENCHI UK LONDON
+Date: 2025-09-20, Amount:     -25.90, Bank: barclays_card, Description: Mr Set Hua Chu, London
+Date: 2025-09-12, Amount:      -2.80, Bank: barclays_card, Description: Baked Nation, St. Albans
+Date: 2025-09-11, Amount:     -10.31, Bank: amex        , Description: ZETTLE *DOUBLE SEVEN HO LONDON
+Date: 2025-08-02, Amount:      -6.08, Bank: barclays_card, Description: Fresh Food and Wine, London
+Date: 2025-07-22, Amount:       0.00, Bank: monzo       , Description: GOOGLE *CHROME TEMP g.co/helppay# GBR
+Date: 2025-07-02, Amount:       0.00, Bank: monzo       , Description: GOOGLE *TEMPORARY HOLD g.co/helppay# GBR
+Date: 2025-06-09, Amount:      11.20, Bank: barclays    , Description: GOVIA TRAINS LTD DRTL31647205 BGC
+Date: 2025-05-25, Amount:      -6.09, Bank: amex        , Description: Coffee Station Margate Margate
+Date: 2025-05-23, Amount:      -5.30, Bank: amex        , Description: NEWS & COFFEE London
+Date: 2025-05-13, Amount:      -5.64, Bank: amex        , Description: POST OFFICE ST PETERS ST ALBANS
+Date: 2025-04-24, Amount:      -2.20, Bank: barclays_card, Description: Nyx*Pggroup, Byfleet2.20 POUND STERLING GREAT BRITAIN
+Date: 2025-04-08, Amount:      -5.73, Bank: barclays_card, Description: Google Cloud L8V4C6, Dublin5.73 POUND STERLING IRELAND
+Date: 2025-02-27, Amount:      -4.00, Bank: amex        , Description: ZETTLE *WATCHHOUSE LONDON
+Date: 2025-02-19, Amount:     -37.80, Bank: barclays    , Description: PAYPAL *EVENTIMUKL ON 17 FEB BCC
+Date: 2025-02-18, Amount:     -11.62, Bank: barclays    , Description: PAYPAL *JAZZYLYM ON 17 FEB BCC
+Date: 2025-01-26, Amount:      -3.40, Bank: barclays_card, Description: Bagel Factory, London
+Date: 2025-01-02, Amount:     -15.20, Bank: amex        , Description: DINES* HYDEPARK WW BAR LONDON
+Date: 2025-01-02, Amount:     -12.00, Bank: amex        , Description: DINES* WW HOT DOG LONDON
+Date: 2024-12-23, Amount:      -0.99, Bank: barclays_card, Description: Budgens Hatfields, Hatfield
+Date: 2024-12-14, Amount:      -5.08, Bank: revolut_usd , Description: SSP Egypt
+Date: 2024-11-28, Amount:      -6.90, Bank: amex        , Description: FABLER LTD London
+Date: 2024-11-26, Amount:     -13.00, Bank: amex        , Description: ZETTLE *SEVEN HEAVEN LONDON
+Date: 2024-11-26, Amount:      -1.50, Bank: barclays_card, Description: Dunkin' Wardour St, London
+Date: 2024-11-10, Amount:      -4.50, Bank: barclays_card, Description: Pyd*Brownbread, Ingatestone
+Date: 2024-11-05, Amount:      -5.00, Bank: amex        , Description: PROTO ST A* PROTOSTALB ST ALBANS
+Date: 2024-11-03, Amount:      -8.00, Bank: barclays_card, Description: Peak Cavern Ltd, Hope Valley
+Date: 2024-11-02, Amount:      -9.95, Bank: amex        , Description: 3CPAYMENT*WELCOME BREAK NEWPORT PAGNELL
+Date: 2024-10-27, Amount:      -3.51, Bank: revolut_usd , Description: Cafe At St Albans Museum
+Date: 2024-10-25, Amount:     -17.17, Bank: revolut_usd , Description: Kyla's Cafe & Bistro
+Date: 2024-10-23, Amount:      -7.51, Bank: revolut_usd , Description: Proto St A Protostalb
+Date: 2024-10-21, Amount:      -6.69, Bank: barclays    , Description: PAYPAL *GOOGLE SAY ON 17 OCT BCC
+Date: 2024-09-13, Amount:     -10.30, Bank: amex        , Description: POST OFFICE ST PETERS ST ALBANS
+Date: 2024-08-25, Amount:     -22.70, Bank: amex        , Description: BOOTS THE CHEMIST ST ALBANS
+Date: 2024-08-19, Amount:     -19.99, Bank: barclays    , Description: PAYPAL *FOYLES ON 17 AUG BCC
+Date: 2024-08-19, Amount:     -17.99, Bank: barclays    , Description: PAYPAL *FOYLES ON 17 AUG BCC
+Date: 2024-07-29, Amount:      -3.99, Bank: barclays    , Description: PAYPAL *DPLAY ON 27 JUL BCC
+Date: 2024-07-22, Amount:      -3.80, Bank: amex        , Description: POST OFFICE ST PETERS ST ALBANS
+
+--- Uncategorized Transactions (Sorted by Highest Absolute Value) ---
+Amount:     -38.66, Date: 2025-11-05, Bank: amex        , Description: PASSYUNK AVENUE FITZROV London
+Amount:     -37.80, Date: 2025-02-19, Bank: barclays    , Description: PAYPAL *EVENTIMUKL ON 17 FEB BCC
+Amount:     -32.40, Date: 2026-06-07, Bank: amex        , Description: SP NOMINALX.COM PHOENIX
+Amount:     -25.90, Date: 2025-09-20, Bank: barclays_card, Description: Mr Set Hua Chu, London
+Amount:     -22.70, Date: 2024-08-25, Bank: amex        , Description: BOOTS THE CHEMIST ST ALBANS
+Amount:     -19.99, Date: 2024-08-19, Bank: barclays    , Description: PAYPAL *FOYLES ON 17 AUG BCC
+Amount:     -17.99, Date: 2024-08-19, Bank: barclays    , Description: PAYPAL *FOYLES ON 17 AUG BCC
+Amount:     -17.17, Date: 2024-10-25, Bank: revolut_usd , Description: Kyla's Cafe & Bistro
+Amount:     -15.20, Date: 2025-01-02, Bank: amex        , Description: DINES* HYDEPARK WW BAR LONDON
+Amount:     -13.99, Date: 2025-10-28, Bank: barclays    , Description: PAYPAL *GOOGLE FEE ON 27 OCT BCC
+Amount:     -13.00, Date: 2024-11-26, Bank: amex        , Description: ZETTLE *SEVEN HEAVEN LONDON
+Amount:     -12.00, Date: 2025-01-02, Bank: amex        , Description: DINES* WW HOT DOG LONDON
+Amount:     -11.62, Date: 2025-02-18, Bank: barclays    , Description: PAYPAL *JAZZYLYM ON 17 FEB BCC
+Amount:      11.20, Date: 2025-06-09, Bank: barclays    , Description: GOVIA TRAINS LTD DRTL31647205 BGC
+Amount:     -10.49, Date: 2026-03-28, Bank: revolut_usd , Description: Feteer Al Asdkaa >
+Amount:     -10.45, Date: 2026-04-18, Bank: amex        , Description: 3CPAYMENT*WELCOME BREAK NEWPORT PAGNELL
+Amount:     -10.31, Date: 2025-09-11, Bank: amex        , Description: ZETTLE *DOUBLE SEVEN HO LONDON
+Amount:     -10.30, Date: 2024-09-13, Bank: amex        , Description: POST OFFICE ST PETERS ST ALBANS
+Amount:     -10.00, Date: 2026-06-24, Bank: monzo       , Description: GOOGLE *CLOUD C5DBSX DUBLIN IRL
+Amount:      -9.95, Date: 2024-11-02, Bank: amex        , Description: 3CPAYMENT*WELCOME BREAK NEWPORT PAGNELL
+Amount:      -9.73, Date: 2026-03-29, Bank: revolut_usd , Description: Badoo
+Amount:      -9.30, Date: 2026-04-25, Bank: barclays_card, Description: Dingwalls, London
+Amount:      -9.20, Date: 2025-10-17, Bank: barclays_card, Description: Art Coffee and Sandwiches, London
+Amount:      -8.45, Date: 2025-11-12, Bank: amex        , Description: BOOTS THE CHEMIST LONDON
+Amount:      -8.30, Date: 2025-09-20, Bank: amex        , Description: VENCHI UK LONDON
+Amount:      -8.00, Date: 2026-04-25, Bank: amex        , Description: DOJO*THE GOLDEN LION CA LONDON
+Amount:      -8.00, Date: 2025-12-20, Bank: amex        , Description: EL PASTOR CDY LTD - THE LONDON
+Amount:      -8.00, Date: 2024-11-03, Bank: barclays_card, Description: Peak Cavern Ltd, Hope Valley
+Amount:      -7.51, Date: 2024-10-23, Bank: revolut_usd , Description: Proto St A Protostalb
+Amount:      -6.90, Date: 2024-11-28, Bank: amex        , Description: FABLER LTD London
+Amount:      -6.90, Date: 2026-05-06, Bank: amex        , Description: CHINESE BRITISH ENTERP LONDON
+Amount:      -6.75, Date: 2025-10-04, Bank: barclays_card, Description: Park Pizza, London N4 3
+Amount:      -6.69, Date: 2024-10-21, Bank: barclays    , Description: PAYPAL *GOOGLE SAY ON 17 OCT BCC
+Amount:      -6.10, Date: 2026-04-28, Bank: amex        , Description: CKO*SUNDAY*LONG ARM BRE LONDON
+Amount:      -6.10, Date: 2026-04-28, Bank: amex        , Description: CKO*SUNDAY*LONG ARM BRE LONDON
+Amount:      -6.09, Date: 2025-05-25, Bank: amex        , Description: Coffee Station Margate Margate
+Amount:      -6.08, Date: 2025-08-02, Bank: barclays_card, Description: Fresh Food and Wine, London
+Amount:      -5.73, Date: 2025-04-08, Bank: barclays_card, Description: Google Cloud L8V4C6, Dublin5.73 POUND STERLING IRELAND
+Amount:      -5.64, Date: 2025-05-13, Bank: amex        , Description: POST OFFICE ST PETERS ST ALBANS
+Amount:      -5.50, Date: 2026-01-31, Bank: barclays_card, Description: Wembley Park, London
+Amount:      -5.30, Date: 2025-05-23, Bank: amex        , Description: NEWS & COFFEE London
+Amount:      -5.08, Date: 2024-12-14, Bank: revolut_usd , Description: SSP Egypt
+Amount:      -5.00, Date: 2024-11-05, Bank: amex        , Description: PROTO ST A* PROTOSTALB ST ALBANS
+Amount:      -4.74, Date: 2025-09-27, Bank: amex        , Description: REDEMPTION ROASTERS HAM London
+Amount:      -4.70, Date: 2026-04-19, Bank: amex        , Description: BBM Northampton South C Northampton
+Amount:      -4.50, Date: 2024-11-10, Bank: barclays_card, Description: Pyd*Brownbread, Ingatestone
+Amount:      -4.09, Date: 2026-03-23, Bank: revolut_gbp , Description: Orange
+Amount:      -4.00, Date: 2025-02-27, Bank: amex        , Description: ZETTLE *WATCHHOUSE LONDON
+Amount:      -3.99, Date: 2024-07-29, Bank: barclays    , Description: PAYPAL *DPLAY ON 27 JUL BCC
+Amount:      -3.80, Date: 2024-07-22, Bank: amex        , Description: POST OFFICE ST PETERS ST ALBANS
+Amount:      -3.70, Date: 2025-12-20, Bank: amex        , Description: DINES* 2631 COFFEE WW LONDON
+Amount:      -3.51, Date: 2024-10-27, Bank: revolut_usd , Description: Cafe At St Albans Museum
+Amount:      -3.40, Date: 2025-01-26, Bank: barclays_card, Description: Bagel Factory, London
+Amount:      -2.95, Date: 2025-09-20, Bank: amex        , Description: RHUBARB AT RAH LONDON
+Amount:      -2.80, Date: 2025-09-12, Bank: barclays_card, Description: Baked Nation, St. Albans
+Amount:      -2.20, Date: 2025-10-04, Bank: amex        , Description: PUCCINOS FINSBURY PARK SEVEN SISTERS R
+Amount:      -2.20, Date: 2025-04-24, Bank: barclays_card, Description: Nyx*Pggroup, Byfleet2.20 POUND STERLING GREAT BRITAIN
+Amount:      -1.50, Date: 2024-11-26, Bank: barclays_card, Description: Dunkin' Wardour St, London
+Amount:      -1.20, Date: 2025-10-04, Bank: barclays_card, Description: Station Place, London
+Amount:       1.10, Date: 2026-04-28, Bank: barclays    , Description: GOVIA TRAINS LTD DRTL33180022 BGC
+Amount:      -1.00, Date: 2025-12-26, Bank: monzo       , Description: NYX*MotorFuelLimited StAlbans GBR
+Amount:      -0.99, Date: 2024-12-23, Bank: barclays_card, Description: Budgens Hatfields, Hatfield
+Amount:       0.50, Date: 2026-04-28, Bank: barclays    , Description: GOVIA TRAINS LTD DRTL33179994 BGC
+Amount:      -0.20, Date: 2025-12-20, Bank: monzo       , Description: NYX*TheRoyalParksLtd London GBR
+Amount:      -0.20, Date: 2026-04-26, Bank: barclays_card, Description: Nyx*TheRoyalParksLtd, London.20 POUND STERLING GREAT BRITAIN
+Amount:       0.00, Date: 2026-06-24, Bank: monzo       , Description: GOOGLE *TEMPORARY HOLD DUBLIN 4 IRL
+Amount:       0.00, Date: 2025-07-22, Bank: monzo       , Description: GOOGLE *CHROME TEMP g.co/helppay# GBR
+Amount:       0.00, Date: 2025-07-02, Bank: monzo       , Description: GOOGLE *TEMPORARY HOLD g.co/helppay# GBR
+----------------------------------
+
+Tip: Edit config/categorization_map.yml to categorize these transactions.

@@ -1,0 +1,40 @@
+# Travel destinations and dates
+# The 'destination' field is for your reference.
+# The 'start_date' and 'end_date' are used for categorization.
+# Transactions within these date ranges that are not otherwise categorized
+# will be assigned to the 'Travel' category.
+
+trips:
+  - destination: "Italy"
+    start_date: 2024-10-06
+    end_date: 2024-10-19
+  - destination: "Amsterdam, Netherlands"
+    start_date: 2025-02-14
+    end_date: 2025-02-17
+  - destination: "Turkey"
+    start_date: 2025-07-03
+    end_date: 2025-07-11
+  - destination: "Kuala Lumpur, Malaysia & Krabi, Thailand"
+    start_date: 2025-08-18
+    end_date: 2025-09-05
+  - destination: "Warsaw, Poland"
+    start_date: 2025-10-18
+    end_date: 2025-10-22
+  - destination: "Madeira, Portugal"
+    start_date: 2025-11-27
+    end_date: 2025-12-01
+  - destination: "Istanbul, Turkey"
+    start_date: 2026-02-19
+    end_date: 2026-02-23
+  - destination: "Slovenia"
+    start_date: 2026-04-30
+    end_date: 2026-05-05
+  - destination: "Turkey"
+    start_date: 2026-04-01
+    end_date: 2026-04-06
+  - destination: "Turkey & Egypt"
+    start_date: 2026-06-26
+    end_date: 2026-06-28
+  - destination: "Spain, Portugal & Amsterdam"
+    start_date: 2026-05-22
+    end_date: 2026-06-01

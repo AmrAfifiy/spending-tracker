@@ -1,0 +1,28 @@
+base_currency: GBP
+
+banks:
+  barclays:
+    files:
+      - ../financial-data/data/barclays.csv
+    currency: GBP
+  monzo:
+    files:
+      - ../financial-data/data/monzo.csv
+    currency: GBP
+  revolut_gbp:
+    files:
+      - ../financial-data/data/revolut_gbp.csv
+    currency: GBP
+  revolut_usd:
+    files:
+      - ../financial-data/data/revolut_usd.csv
+    currency: USD
+  amex:
+    files:
+      - ../financial-data/data/amex_ba.csv
+      - ../financial-data/data/amex_platinum.csv
+    currency: GBP
+  barclays_card:
+    files:
+      - ../financial-data/data/barclays_card.csv
+    currency: GBP
