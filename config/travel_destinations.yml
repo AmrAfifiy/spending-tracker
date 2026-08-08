@@ -38,3 +38,7 @@ trips:
   - destination: "Spain, Portugal & Amsterdam"
     start_date: 2026-05-22
     end_date: 2026-06-01
+  - destination: "Spain"
+    start_date: 2026-07-31
+    end_date: 2026-08-04
+

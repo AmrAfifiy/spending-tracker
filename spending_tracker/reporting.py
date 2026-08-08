@@ -5,6 +5,7 @@ from datetime import datetime
 from .reporting_executive import generate_executive_summary
 from .reporting_categories import generate_category_deep_dive
 from .reporting_composition import generate_composition_report
+from .reporting_text import generate_textual_report
 
 def generate_all_reports(transactions, output_dir="reports"):
     """
@@ -42,9 +43,16 @@ def generate_all_reports(transactions, output_dir="reports"):
 
     # 3. Composition report
     print("\n" + "-"*80)
-    print("2. COMPOSITION REPORT")
+    print("3. COMPOSITION REPORT")
     print("-"*80)
     generate_composition_report(transactions, report_subdir)
+
+    # 4. Textual LLM Report
+    print("\n" + "-"*80)
+    print("4. TEXTUAL LLM REPORT")
+    print("-"*80)
+    generate_textual_report(transactions, report_subdir)
+
 
 
     print("\n" + "="*80)
